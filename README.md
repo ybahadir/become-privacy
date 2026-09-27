@@ -1,6 +1,6 @@
 # be - become. Privacy Policy
 
-Public privacy policy for the iOS app **be - become.**, in English and Turkish.
+Public privacy policy for the iOS app **be - become.**, in English.
 
 Published page: https://ybahadir.github.io/become-privacy/
 
